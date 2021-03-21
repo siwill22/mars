@@ -2,3 +2,4 @@
 .ipynb_checkpoints/*
 geology/.DS_Store
 geology/simplified_geology.*
+.DS_Store
