@@ -3,3 +3,6 @@
 geology/.DS_Store
 geology/simplified_geology.*
 .DS_Store
+grids/G17_l90.xyz
+grids/W19_l30.xyz
+grids/W19_l90.xyz
