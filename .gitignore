@@ -14,3 +14,5 @@ vh_it.out
 geology/dichotomy.gmt.gplates.xml
 DistanceToHellasCentre.nc
 shc/.ipynb_checkpoints/mars_crustal_power_truncated_to_deg51_from_88.cof-checkpoint.txt
+tmp.nc
+tmp.xyz
