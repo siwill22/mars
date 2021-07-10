@@ -16,3 +16,5 @@ DistanceToHellasCentre.nc
 shc/.ipynb_checkpoints/mars_crustal_power_truncated_to_deg51_from_88.cof-checkpoint.txt
 tmp.nc
 tmp.xyz
+grids/W19_l30_hellas_cosine_ramp_function.xyz
+grids/W19_l30_hellas_cosine_ramp_function.xyz.zip
