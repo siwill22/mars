@@ -37,3 +37,5 @@ grids/W19_l90_Argyre_removed_mincurv.xyz
 grids/W19_l90_Isidis_removed_mincurv.xyz
 grids/IsidisArgyre.zip
 grids/W19_l90_Isidis_ramped_mincurv.xyz
+grids/mincurv/W19_l90_hellas_removed_mincurv.xyz
+grids/mincurv/W19_l90_hellas_cosine_ramp_function_mincurv.xyz
